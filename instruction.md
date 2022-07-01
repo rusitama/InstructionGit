@@ -32,3 +32,19 @@ git config --global user.email ваша_почта@example.com
 * git brunch
 * git chechout
 * git merge
+
+## Создание ветки
+
+*git branch* комманда менеджер веток с помощью его можно создавать, удалять и переименовывать их. Если ввести эту команду можно увидеть текущие ветки и на какой ветке находится пользователь.
+
+Для создания ветки нужно ввести *git bracnh **name*** name это название ветки.
+Введем несколько веток для практики.
+
+git branch text
+
+git branch text2
+
+git branch images
+
+git granсh links
+
