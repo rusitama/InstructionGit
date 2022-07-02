@@ -52,6 +52,8 @@ git config --global user.email ваша_почта@example.com
 
 git branch text2
 
+Изменение в ветке **text2** в ветке **master** для создания конфликта Рис2.
+
 git branch images
 
 
