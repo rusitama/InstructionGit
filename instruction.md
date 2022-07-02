@@ -54,6 +54,12 @@ git branch text2
 
 git branch images
 
+
+![](GitBranch.jpg) 
+
+рис1
+
+
 git granсh links
 
 Ссылка на книгу по [git](https://git-scm.com/book/en/v2)
