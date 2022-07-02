@@ -46,7 +46,6 @@ git branch text2
 
 git branch images
 
-Ссылка на книгу по [git](https://git-scm.com/book/en/v2)
-
 git granсh links
 
+Ссылка на книгу по [git](https://git-scm.com/book/en/v2)
