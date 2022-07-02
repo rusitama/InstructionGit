@@ -46,5 +46,11 @@ git branch text2
 
 git branch images
 
+
+![](GitBranch.jpg) 
+
+рис1
+
+
 git granсh links
 
