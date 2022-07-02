@@ -44,6 +44,8 @@ git branch text
 
 git branch text2
 
+Эта ветка создана для провеки конфлитов между веткой **master** и **text2**. Для этого в ветке master введем такие же изменения и сохраним после проверим состояние.
+
 git branch images
 
 git granсh links
